@@ -1,0 +1,13 @@
+# Python bytecode files
+**/__pycache__/
+**/*.pyc
+
+# Large data files
+**/checkpoints*/
+**/logs*/
+**/results*/
+
+# System IDE files
+**/.claude
+**/.DS_Store
+**/Thumbs.db
